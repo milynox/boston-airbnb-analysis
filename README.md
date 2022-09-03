@@ -54,4 +54,4 @@ Contributions are what make the open source community such an amazing place to b
 
 - Nhan Nguyen ([milynox](https://github.com/milynox)) - thanhnhan16121789@gmail.com
 
-This README was inspired by my colleague Huy Tran. Contact him via d.huy723@gmail.com
+This README was inspired by [this repo](https://github.com/dhuy237/airbnb-price-prediction/) of my colleague Huy Tran. Contact him via d.huy723@gmail.com
