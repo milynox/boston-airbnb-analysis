@@ -32,7 +32,7 @@ This project aims to answer these questions:
 
 For the code, please check the notebook `boston_airbnb_analysis.ipynb`.
 
-The findings of this project has been published [here]().
+The findings of this project has been published [here](https://thienandnhan1.wordpress.com/2022/09/03/leverage-boston-airbnb-datasets-to-make-better-decisions-on-renting-in-boston-ma/).
 
 ### Acknowledgements <a name="acknowledgements"></a>
 
