@@ -32,11 +32,11 @@ This project aims to answer these questions:
 
 For the code, please check the notebook `boston_airbnb_analysis.ipynb`.
 
-The findings of this project has been published [here](https://medium.com/@d.huy723/clustering-helps-to-improve-price-prediction-in-online-booking-systems-3aab0e2dc83b).
+The findings of this project has been published [here]().
 
 ### Acknowledgements <a name="acknowledgements"></a>
 
-This project use data from [InsideAirbnb](http://insideairbnb.com/) (London 2019). To download the dataset used in this project, check this drive [folder](https://drive.google.com/drive/folders/1XwK4Z6vm7OFdrAWySAcbIv8Me0YEB6Gc?usp=sharing).
+This project use data from [Kaggle - Boston Airbnb Open Data](https://www.kaggle.com/datasets/airbnb/boston) (Boston 2016-2017). Datasets used in the projects are all from Kaggle.
 
 The code is inspired by Udacity Data Scientist Nanodegree Program.
 
@@ -52,4 +52,6 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact
 
-- Huy Tran ([dhuy237](https://github.com/dhuy237)) - d.huy723@gmail.com
+- Nhan Nguyen ([milynox](https://github.com/milynox)) - thanhnhan16121789@gmail.com
+
+This README was inspired by my colleague Huy Tran. Contact him via d.huy723@gmail.com
